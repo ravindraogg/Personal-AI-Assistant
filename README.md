@@ -30,7 +30,7 @@ The project leverages a diverse stack of technologies for AI, automation, and we
 - **PyQt5** – GUI development.
 - **Webdriver-Manager** – Selenium driver management.
 
-![1737980425685](https://github.com/user-attachments/assets/a55bacc0-7d13-431e-bba3-16539b396a87)
+<img src="https://github.com/user-attachments/assets/a55bacc0-7d13-431e-bba3-16539b396a87" width="500" height="500" alt="Image">
 
 
 ## Setup & Installation
