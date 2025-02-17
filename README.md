@@ -49,7 +49,7 @@ The project leverages a diverse stack of technologies for AI, automation, and we
 ## Usage
 Run the assistant using:
 ```sh
-python main.py
+python model.py
 ````
 
 ## Roadmap
